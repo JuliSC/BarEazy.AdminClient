@@ -1,6 +1,6 @@
 # BarEazy.AdminClient
 
-This repository contains a the code for an admin client for BarEazy.
+This repository contains the code for an admin client for BarEazy.
 
 ## Installation Guide
 
